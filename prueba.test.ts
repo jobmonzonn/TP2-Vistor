@@ -30,5 +30,4 @@ CAR.createcarforparts(carbody, engine, wheels);
     expect(TOTAL_PRICE_VISITOR.totalPrice).toEqual(2226);
 });
 
-//prueba
 
